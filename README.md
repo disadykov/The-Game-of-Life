@@ -22,3 +22,9 @@
 `./a.out < ` <имя конфигурационного файла>
 
 `CTRL+C` - для выхода
+
+
+![pong](img/menu.png)
+
+
+![pong](img/game.png)
